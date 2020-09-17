@@ -1,0 +1,12 @@
+Order PEMDAS: Parentheses Exponent Multiplication Division Addition Subtraction
+
+3 + 4 * 100 / 10
+
+100 / 10 / 5 / 2
+
+18 + 4 - 2 ** 2 * 10 / 2
+
+1450 / 60 /3
+
+1450 / (60 /3)
+

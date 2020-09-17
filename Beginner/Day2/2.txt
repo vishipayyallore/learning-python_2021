@@ -1,0 +1,18 @@
+1.
+    first_name = "Mohd"
+    last_name = 'Azim'
+    person_description = """
+                        My Name is 
+                        Mohd Azim
+                        """
+    person_description_v1 = '''
+                        My Name is 
+                        Mohd Azim
+                        '''
+
+
+2.
+first = "First's"
+last = 'Last"s'
+
+print(f'Contains both Single and Double Quotes: {first} {last}')
